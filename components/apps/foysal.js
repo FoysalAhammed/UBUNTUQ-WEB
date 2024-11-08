@@ -208,7 +208,7 @@ function Skills() {
                         <img className="m-1" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Foysal tailwind css" />
                         <img src="https://img.shields.io/badge/-Nodejs-339933?style=flat&logo=Node.js&logoColor=ffffff" alt="Foysal node.js" className="m-1" />
                
-                        <img className="m-1" src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white" alt="vivek redux" />
+                        <img className="m-1" src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white" alt="foysal redux" />
                     </div>
                 </div>
             </div>
@@ -391,6 +391,6 @@ function Projects() {
 }
 function Resume() {
     return (
-        <iframe className="h-full w-full" src="./files/foysal-resume.pdf" title="Foysal Ahammed resume" frameBorder="0"></iframe>
+        <iframe className="h-full w-full" src="./files/Resume_foysal.pdf" title="Foysal Ahammed resume" frameBorder="0"></iframe>
     )
 }
